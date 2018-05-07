@@ -1,5 +1,5 @@
 # A Merge Conflict will happen here
 
-Is this the Krusty Krab? -No.
+Is this the Krusty Krab?
 
-This is Patrick.
+No. This is Patrick.
